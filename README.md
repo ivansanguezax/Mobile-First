@@ -8,9 +8,7 @@
 
 #### Link Figma ⬇️
 
-`https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=44%3A593`
-
+[Figma](https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=44%3A593 "Figma")
 
 #### Link del curso ⬇️
-
-`https://platzi.com/clases/mobile-first/`
+[Mobile First](https://platzi.com/clases/mobile-first/ "Mobile First")
